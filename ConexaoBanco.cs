@@ -12,7 +12,7 @@ namespace CRUD_Paciente
         private string host = "localhost";
         private string database = "basedados_pacientes";
         private string user = "root";
-        private string password = "jan.0495";
+        private string password = "***";
         private int port = 3307;
         private MySqlConnection con;
         private MySqlCommand cmd;
